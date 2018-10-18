@@ -244,7 +244,6 @@ Useful resources:
 
 </details>
 
-<details>
 <summary><b>How do you get a list of logged-in users?</b></summary><br>
 
 For a summary of logged-in users, including each login of a username, the terminal users are attached to, the date/time they logged in, and possibly the computer from which they are making the connection, enter:
@@ -272,7 +271,6 @@ Useful resources:
 
 - [4 Ways to Identify Who is Logged-In on Your Linux System](https://www.thegeekstuff.com/2009/03/4-ways-to-identify-who-is-logged-in-on-your-linux-system/)
 
-</details>
 
 <details>
 <summary><b>What is the advantage of executing the running processes in the background? How can you do that?</b></summary><br>
