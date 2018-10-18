@@ -87,8 +87,8 @@
 
 ###### System Questions (31)
 
-<details>
-<summary><b>Give some examples of Linux distribution names. What is your favorite Linux distro and why?</b></summary><br>
+
+<summmery><b>Give some examples of Linux distribution names. What is your favorite Linux distro and why?</b></summary><br>
 
 - Red Hat Enterprise Linux
 - Fedora
@@ -114,7 +114,6 @@ Useful resources:
 - [List of Linux distributions](https://en.wikipedia.org/wiki/List_of_Linux_distributions)
 - [What is your favorite Linux distro and why?](https://www.quora.com/What-is-your-favorite-Linux-distro-and-why)
 
-</details>
 
 <details>
 <summary><b>What are the differences between Unix, Linux, BSD and GNU?</b></summary><br>
